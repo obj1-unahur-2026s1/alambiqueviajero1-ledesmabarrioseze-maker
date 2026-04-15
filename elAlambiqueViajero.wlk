@@ -199,7 +199,6 @@ object superConvertible {
   }
 
   method sufrirConsecuencia() {
-    // Si querés que además de gastar nafta vuelva a modo auto:
     combustible = combustible - 100
     modo = auto 
   }
